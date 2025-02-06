@@ -77,7 +77,6 @@ testcontainers.properties
 
 # Docker
 docker-compose.override.yml
-docker-compose*.yml
 
 # Misc
 *.swp
