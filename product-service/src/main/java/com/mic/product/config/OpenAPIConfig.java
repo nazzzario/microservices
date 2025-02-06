@@ -24,7 +24,6 @@ public class OpenAPIConfig {
                         .description("This is the REST API for Product Service")
                         .version("v0.0.1")
                         .license(new License().name("Apache 2.0"))
-
                         .contact(new Contact()
                                 .email("test@email.com")
                                 .name("Nazar Krasnovoronka")))
